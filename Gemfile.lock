@@ -43,8 +43,8 @@ GEM
     rack-jekyll (0.4.1)
       jekyll (>= 0.12.0, < 2.0)
       rack (~> 1.5.0)
-    rack-rewrite (1.4.01)
-    rake (10.1.0)
+    rack-rewrite (1.4.1)
+    rake (12.3.3)
     rb-fsevent (0.9.3)
     rb-inotify (0.9.3)
       ffi (>= 0.5.0)
@@ -70,6 +70,6 @@ DEPENDENCIES
   kramdown
   rack-jekyll
   rack-rewrite
-  rake (~> 10.0)
+  rake (~> 12.3)
   spidr (~> 0.4)
   thin
